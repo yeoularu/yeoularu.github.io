@@ -42,9 +42,9 @@ module.exports = {
       codepen: '',
       soundcloud: '',
       medium: '',
-      github: 'https://github.com/yeoularu',
+      github: 'github.com/yeoularu',
       rss: '',
-      youtube: 'https://www.youtube.com/channel/UC4B_O2fT_Y_CTx4N26nenwQ',
+      youtube: 'www.youtube.com/channel/UC4B_O2fT_Y_CTx4N26nenwQ',
     }
   }
 };
