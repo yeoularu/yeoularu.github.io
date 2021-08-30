@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'yeoularu',
-    photo: '/photo.png',
+    photo: '/photo.jpg',
     bio: 'JavaScript, Startup, 🏀',
     contacts: {
       email: 'yeoularu@gmail.com',
