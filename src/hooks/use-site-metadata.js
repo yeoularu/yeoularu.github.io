@@ -12,10 +12,10 @@ const useSiteMetadata = () => {
               bio
               photo
               contacts {
-                github
-                email
                 rss
+                github
                 youtube
+                email
               }
             }
             menu {

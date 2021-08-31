@@ -1,5 +1,19 @@
 // @flow strict
 import React from 'react';
+import styles from './Copyright.module.scss';
+
+const Author = () => (
+    <div>
+      <p className={styles['copyright']}>
+        © 2021. yeoularu all rights reserved.
+      </p>
+    </div>
+);
+
+export default Author;
+
+/*
+import React from 'react';
 import { getContactHref } from '../../../utils';
 import styles from './Author.module.scss';
 import { useSiteMetadata } from '../../../hooks';
@@ -17,11 +31,10 @@ const Author = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          <strong>{author.name}</strong>
         </a>
       </p>
     </div>
   );
 };
-
-export default Author;
+*/
