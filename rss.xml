@@ -1,4 +1,393 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Sep 2021 14:51:47 GMT</lastBuildDate><item><title><![CDATA[블로그 시작]]></title><description><![CDATA[블로그를 시작하며 쓴 글]]></description><link>https://yeoularu.github.io/posts/블로그 시작</link><guid isPermaLink="false">https://yeoularu.github.io/posts/블로그 시작</guid><pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 03 Sep 2021 13:54:57 GMT</lastBuildDate><item><title><![CDATA[ON.town 사용기]]></title><description><![CDATA[가상사무실 체험기]]></description><link>https://yeoularu.github.io/posts/ON.town 사용기</link><guid isPermaLink="false">https://yeoularu.github.io/posts/ON.town 사용기</guid><pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/76c8d5d54115884ae412c5a6bbde5439/0abb9/intro-bg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 134.58333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAemjdjLYSIm7LiEjf//EAB0QAAICAQUAAAAAAAAAAAAAAAECAAMQERITIjL/2gAIAQEAAQUCsbjRL1JhVY+0MBqLrGSJ2WH1j//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAEEAwEAAAAAAAAAAAAAAAEAAhARAyIxIf/aAAgBAQAGPwIv7SHRcUQqGNpI57GrbWzRZgT/AP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESEQMVFB/9oACAEBAAE/ITWKC6uGSdA29hPsQ+x2MWMbUoVyz2JAuLWoqEnYVweX/9oADAMBAAIAAwAAABCI0bD/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPxAj/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxB0pM//xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhMUFhEHGh/9oACAEBAAE/EGYdAP3KqyU5BQ4xiW84sWF2CmJ6lwuKPrDDKBTaYKJ5EkuzXcw6e70Swt8wAIEMBdur358//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/76c8d5d54115884ae412c5a6bbde5439/8ac56/intro-bg.webp 240w,
+/static/76c8d5d54115884ae412c5a6bbde5439/d3be9/intro-bg.webp 480w,
+/static/76c8d5d54115884ae412c5a6bbde5439/e46b2/intro-bg.webp 960w,
+/static/76c8d5d54115884ae412c5a6bbde5439/f992d/intro-bg.webp 1440w,
+/static/76c8d5d54115884ae412c5a6bbde5439/882b9/intro-bg.webp 1920w,
+/static/76c8d5d54115884ae412c5a6bbde5439/16296/intro-bg.webp 3838w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/76c8d5d54115884ae412c5a6bbde5439/09b79/intro-bg.jpg 240w,
+/static/76c8d5d54115884ae412c5a6bbde5439/7cc5e/intro-bg.jpg 480w,
+/static/76c8d5d54115884ae412c5a6bbde5439/6a068/intro-bg.jpg 960w,
+/static/76c8d5d54115884ae412c5a6bbde5439/644c5/intro-bg.jpg 1440w,
+/static/76c8d5d54115884ae412c5a6bbde5439/0f98f/intro-bg.jpg 1920w,
+/static/76c8d5d54115884ae412c5a6bbde5439/0abb9/intro-bg.jpg 3838w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/76c8d5d54115884ae412c5a6bbde5439/6a068/intro-bg.jpg&quot;
+            alt=&quot;intro-bg.jpg&quot;
+            title=&quot;intro-bg.jpg&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ON.town 소개 페이지&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.on.town&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;ON.town&lt;/a&gt; 사용해보았다&lt;/p&gt;
+&lt;p&gt;몆 주 전, 스타트업 단톡방에서 ON.town 창업자님이 손수 링크를 나르고 있었다.&lt;/p&gt;
+&lt;p&gt;서비스 컨셉과 기능이 재밌어보여 일찍이 베타 테스트 유저 등록 해놓고 기다리고 있었는데 오늘 서비스 오픈했다고 해서 바로 시도해봤다.&lt;/p&gt;
+&lt;h2 id=&quot;가상-사무실-ontown&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%80%EC%83%81-%EC%82%AC%EB%AC%B4%EC%8B%A4-ontown&quot; aria-label=&quot;가상 사무실 ontown permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;가상 사무실 ON.town&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.on.town&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;ON.town&lt;/a&gt;은 가상 사무실이다. 웹을 통해 가상 공간에 사무실을 만들고, 팀원들이 들어와 게임처럼 돌아다니며 소통할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e7944ff7871af7a3bbb5eef02b417ba/21e8f/avatar-pet.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABoElEQVQoz5WTTUsbURiF/XX5cL7A2tBWScbRVix+tNSKK6E/oEIXiiCBbloQ7KauCoKkITUmo0klSaNCSBy1GSMxxhqnEnl6I7SLIuJdvBwul/tw3nO4XboW5P/R1AD9fY8YtCzMSIRwOIxpRrAGTJ48Dt3c3/auM123wXStm2QyTqWc57ReoX1VFbpP6+KYRCKGEvTJAH0YRg8/sktwNI2TfkF09iGNwmuozmCvf0RVdXTVLwN8wPf0e3DHsD+ZjIV6qcQGBfAl61+jAmjIAXUBzNkCuD/E3prJuze9uLYFzgjJuDQwgCYy3NvNwFUJ7zxPo2Zz2SxAu0xmK4HS3ck5IFNKUACLogyP5lkd1ynd6HX7twDaAuiTb7lYyHJ58ZPD8jYf3r7CPSritarY6W8oil/OodZxWMyB1+C85rCx+plfJwcigiaZzQ3h0C/n0BCa28njtFx262VyZyV2hB56NVJbKVQZoCLaCxk6y/YXJrILTKTmmdpcZDw1x+R2lKX4Cj2qIpq+58p/XQ4/sxgdH+H56PC/6ZyfDpl3fr0/xUAx3mxY36cAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4e7944ff7871af7a3bbb5eef02b417ba/8ac56/avatar-pet.webp 240w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/d3be9/avatar-pet.webp 480w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/e46b2/avatar-pet.webp 960w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/f992d/avatar-pet.webp 1440w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/f114c/avatar-pet.webp 1684w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4e7944ff7871af7a3bbb5eef02b417ba/8ff5a/avatar-pet.png 240w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/e85cb/avatar-pet.png 480w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/d9199/avatar-pet.png 960w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/07a9c/avatar-pet.png 1440w,
+/static/4e7944ff7871af7a3bbb5eef02b417ba/21e8f/avatar-pet.png 1684w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4e7944ff7871af7a3bbb5eef02b417ba/d9199/avatar-pet.png&quot;
+            alt=&quot;avatar-pet.PNG&quot;
+            title=&quot;avatar-pet.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+웹사이트에 들어가 회원가입하고 로그인하면 아바타와 펫을 꾸밀 수 있었다. 디자인이 다양하진 않았다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/6fc98/first.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.083333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA9ElEQVQoz52SUW+DIBSF+/9/2fawvW9ZzKqzFsQLAoJWu7MbrVGXLl37cHKJOXx4Duys/sKsmrJxGp5CJcjkO16zF+hyD61SkEwgizc4k4/e2b/WbvOBFnBbH5GXH3j+fEIlEijW74NvAy8mZw4gKuCNxHe0iMEiuBKxqdG46irob2CV8maB4pBDqSO6zqM79Qw1vD6hbf2dwIs5eIK3kiX4rxQ8VzBN8X9gTQuQSMA7h6HvMQyTzucBbXT3AJeytcoRGsdRPccMrIYjR+7RPBbZ6uVpTErHfteH3rzla2bDEK32m80PRZ77nIFm8/ayTd9r/QChMPJ3MV58vQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/8ac56/first.webp 240w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/d3be9/first.webp 480w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/e46b2/first.webp 960w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/f992d/first.webp 1440w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/882b9/first.webp 1920w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/1faf2/first.webp 2161w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/8ff5a/first.png 240w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/e85cb/first.png 480w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/d9199/first.png 960w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/07a9c/first.png 1440w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/29114/first.png 1920w,
+/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/6fc98/first.png 2161w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/b54c5a5833c64a7ebf4cd1b2b5dc294e/d9199/first.png&quot;
+            alt=&quot;first.PNG&quot;
+            title=&quot;first.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+첫 페이지에서는 나의 상태를 업데이트 할 수 있었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8483e40ce06a695b858ccf3f0e3578f/dc77e/second.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB4UlEQVQ4y5WTy08TURTG+bdcumlQKkEDaSK0mihKI5KR2gqmJASN0ZYuQE0XLkwQNMZoXGhSl42PhRvjwigSQZgX0GFeneFRY37e1g4pYdFhcXLPPfny3fN995wO11IIwjHl/Vyv/GLDWOGr8oVKZQXbWMMyVtHlb/vYVnwQHQcKTUAd6ImzasmUl9+j6ovo+pKor4la68PtCBvg/0DbNURY/PVMdnwbx13Hrxpse9YhNW0IZbYdhdUtm++ayd6eS632h9quz+6OL+41qrYWklB05zSlO9YmplnBNGR838UyNVx7U3RpN1SEIgyM9m2FR8+eMHIrS+buMOO5HNdvS2Smx8gWCujaEp6ttv+UgNBzNO4X8wwmE0RjUTozvUQSJ4idPc2NrISu/mxgQhHWT9v4zas3Jaami/Sc6eNY/gXH45dIjY5RXHjNurIofAzboaXibS3z+N0nLs8+ZSg9wMTzzwyOj5KayXNzvsyGdhTCuodCTv5BgdhQnPiVPi5eu0piZIC41E8yLaGKDkNLDjy8c2+S7t5TdEYi9J+L0dV9kmhPFxeS51HlH0fz0BErVyp/YHbuJemUxELpIxOTU+RmHjL/VkgWnxJK8oFNEbnVXC9L+FqfT6dRU1v8PjyH/wDlk5BM7HkJmgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/c8483e40ce06a695b858ccf3f0e3578f/8ac56/second.webp 240w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/d3be9/second.webp 480w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/e46b2/second.webp 960w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/f992d/second.webp 1440w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/882b9/second.webp 1920w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/44d04/second.webp 2141w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/c8483e40ce06a695b858ccf3f0e3578f/8ff5a/second.png 240w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/e85cb/second.png 480w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/d9199/second.png 960w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/07a9c/second.png 1440w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/29114/second.png 1920w,
+/static/c8483e40ce06a695b858ccf3f0e3578f/dc77e/second.png 2141w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/c8483e40ce06a695b858ccf3f0e3578f/d9199/second.png&quot;
+            alt=&quot;second.PNG&quot;
+            title=&quot;second.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+다른 버튼은 아직 준비중이라고 떴고, Home에 Company 탭만 들어갈 수 있었다. 회사를 만들었더니 남산에 우리 빌딩이 세워졌다. (현직자가 아니어도 만들 수 있었다. 직장인(창업X)/예비창업팀/스타트업 중 하나로 만들 수 있었다.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/af0ce2cb28987d425a018d237eafa360/5c68a/office.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.083333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAC6ElEQVQoz32TWU9TURSF+2d88dE4EIdEoS3SFlARyihK6e0o2tZCB2ppBQoUEYVCEYOAVsRITPDBaGIEFatSRoNIZRBNTPwVn+cWI4kPPqzsfW7u+bL22vcq3q8lmZl7Q3o+xUoqSXppjvTyAquLO1oTvXxOf1pk88sKXz+JfuEjW5+X2U6vsLW6nDmnl+bZ3lhFcWOmH2ewiMlYmOknd5nsj/DszjVm7kVIJiK8HGzhhdBk71WiJce42+Rg4v4IneZSgqeO0mEsZiIxyqDPxpNOD4qe5ABGh5qIx8LM8wmGrwewBUp4GK/mxVANrqZS+pqsDPgkApp9eKRSQn4nmmwle/fsJ+94DuFGF65zhSRaXSi638WxuTX0XanhekM1vT4DyssnMfmVeBtVHHBmE/Ub6HafJ3j6CBZ9LubiHEz6PKqKdJlq1aswFBwjEfWhuCmAVgEc8ErEQjZu+Y2oHFoiIQ3DzVqyhPvuoERPQw2BgkPUVWqxVuTjMuQy3XUGd20u1qpCLEXZJDq8u8C4x0hP0EzUfQGlU8O1Fi2DbTqyXGq6/LXEr1p4GK3n8rl8JL2GeknFr7ESvGYVpvJ8zEUn/gE2GOkNWogLqNIhgMLhYMahiq7GWvoF8JbPyKUqHVKpDFTzfbQYr0n9f2BfwIRKOAyHNdyWgU51BhhrlIhYz2ZGloFu4fDnA70A/nF45g9Q/mx2M7QKhxaULpGhGHlYjHzIJWdooscjMsw/mAGay3QCqGZbdmhWY64o2M2w/8MQdreOmNiyvBD5YoFwWO5WI9Wf5IRTRadXbPlKNYHCw9jL8rCVa7lYkUewVkOdqPZKkeup4zvA3uQdQt0GnrY7GA6ZxMVKBpoMDHXYud1mZaTdxnh7HY/a6hhvtvCgxZZRotnOSFiuNsZaLzIaNDI1HkPxaOExT9+O8SMl/36v2fgyz3rqNd9SU2wJbQqtz74Sz4TmptmYm/qrTbmm5H4688731Vl+A3M3YWA8K/0sAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/af0ce2cb28987d425a018d237eafa360/8ac56/office.webp 240w,
+/static/af0ce2cb28987d425a018d237eafa360/d3be9/office.webp 480w,
+/static/af0ce2cb28987d425a018d237eafa360/e46b2/office.webp 960w,
+/static/af0ce2cb28987d425a018d237eafa360/f992d/office.webp 1440w,
+/static/af0ce2cb28987d425a018d237eafa360/882b9/office.webp 1920w,
+/static/af0ce2cb28987d425a018d237eafa360/921ed/office.webp 2573w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/af0ce2cb28987d425a018d237eafa360/8ff5a/office.png 240w,
+/static/af0ce2cb28987d425a018d237eafa360/e85cb/office.png 480w,
+/static/af0ce2cb28987d425a018d237eafa360/d9199/office.png 960w,
+/static/af0ce2cb28987d425a018d237eafa360/07a9c/office.png 1440w,
+/static/af0ce2cb28987d425a018d237eafa360/29114/office.png 1920w,
+/static/af0ce2cb28987d425a018d237eafa360/5c68a/office.png 2573w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/af0ce2cb28987d425a018d237eafa360/d9199/office.png&quot;
+            alt=&quot;office.PNG&quot;
+            title=&quot;office.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+회사를 클릭하면 가상 사무실로 들어갈 수 있다. 도트 그래픽이 귀엽다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/709ceed8b1ef1dd80015e8397f54e4a4/1439b/chat.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAC+ElEQVQoz5WRa0zTVxiH+8XEzBgvibb8W6il2HjN1G0x0fkBEeQitdBSRaVdpDr/ioKhSFvaEjUK3pBeQKwWIjILXrJp4odlWebEJcZPW2L045IlLsuqLWgVBPTxgPdPxpM8ed+TnPPk956j6L/XT7Svm9MdEaKdXZw5G+WHCzHi8YcMDA6SSCZJfsD4PpFIvK6CR+/6AeL//4viaH8AzbcGpkyayrTpM5g8+Qv0WQZGR1/wuWtkdFgIbwZZYlxGplpLenoGkjqduTodsZM+bl/v5ZfzYW71BrlzOczNnhC/dge40FjFtc4wl9pbCO220Rts5mq0jd96wiiabrSycuNyFur1SJKGNCHMVKvxVBbzY1eApkaZxkNmYqFy6rzlRHw7aCj+BveOchwbzSzWLcBuNlHnKOPcoVoUR34P8KXxKzI1c0iT1KjS1MwRwmbZwmm/uOyqoNS5Br8vl/XOYtq92/Fbs5GtuezanM/h6lKq7UVsNa6ip8WP4lh/EF32QmZNV4pxNShV0oSwaaeF6ME9+DzfYffkc6q5CMu+9UQadxKus1NdYUS25XM3UoJzWyHbSnPoOeF9LczKWYRqpuoj4WHZzJn9VXjdNrbUr6X1QAFmp5EOv0xIjC1vKuL7LXn8FTFT6yig0pT9XqhfvQjlO6H6TcIyzoqE3vGEDQV0NK/DXG+aEO63F1IlhLKtgPudFpzbi3CUjCf0iV++FUAvEipnqCbecLZSQitJHKw00u5x4NlrpWTvava4crDUFBIU4zaYViBb1iBvyKVlVx67N+Wxdd1Kuo+6UZy80YYhezHSLIkMrU6kzGC+wcCllnquBDxEm2o4H3JxLuziYtjDtTYfP7W6uNzqFniIHXeLcw30Havlj6tdIuHPAbQr5iEptWi0WUKoY+nSr/nvn795nhpk6OkThhIPGRY8E6QScZ4mRf+GoYG39RHJ+AMUsT/7KK+poMxkwWoV45WUYrfZeJJ6zMuXY4yMDDM6NvJJxl6MkUoleAWQpWS2KidNkAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/709ceed8b1ef1dd80015e8397f54e4a4/8ac56/chat.webp 240w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/d3be9/chat.webp 480w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/e46b2/chat.webp 960w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/f992d/chat.webp 1440w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/882b9/chat.webp 1920w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/09452/chat.webp 2562w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/709ceed8b1ef1dd80015e8397f54e4a4/8ff5a/chat.png 240w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/e85cb/chat.png 480w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/d9199/chat.png 960w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/07a9c/chat.png 1440w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/29114/chat.png 1920w,
+/static/709ceed8b1ef1dd80015e8397f54e4a4/1439b/chat.png 2562w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/709ceed8b1ef1dd80015e8397f54e4a4/d9199/chat.png&quot;
+            alt=&quot;chat.PNG&quot;
+            title=&quot;chat.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+채팅 탭과 팀원 상태를 볼 수 있는 탭이 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e7f0894baa29c98cc0adbd2ad242ae7c/22b88/videocall.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAC6ElEQVQoz5WT/0/McRzH7z/gB+rqc7UkcRFhNgs/+HLqcnelI3NcqevLNZV86aIr6rqObAjdVfpc2NUPjDG1mfmuzNDYfP8B8yW6vvmBhhke3q6wmV+8tsde7+2992PP92t7KR4+u8fFritcunSZq52dAbquX+d1Tw9+v5/e3l56/SP0DwwwMDhEX3//n7tR3rwV9LxAcfiOj7iV85DGhxExIRJJCkcdM433wx/5uz5/+cKH4Q98+84/6+v3rygab3tRp8xEGqdEGRJKUJASVaiKs21NPL5xgbvnT/Pg8hnuC44f99F6wsfB+t2clD10X+jgqq+eG+3HuHmunTvnTqLw3PQSnxFPbFSUSBeGpAonXIg3mTS0t7rxuDazx7WaDncGbae8uN11FK1JojxnFXWu7XS0ttC8bye2XBNeex6KBiGcY5rLlIhIlJKKEJFOJYSVlhQOVRXg2LYO3RYNjqoEUm0GdhWvZVvKPPLTNBRmGHBVbqXEaiLTMB+5xoaiqbuFSbo4gsYEEypJKJUSocFKHNkpeJ1F1NizWFmaiLxLR2qJnqaq9RwsNrHBrCfPlMC1vTrK8rTkrFiK7Nw0IozWxxE8VimEKjFHCUkIKy3JNDsKqS7LxFiSgNupDQg9261CWkCR2YBVCLsbUrHnJ2FZvhi5+rdw5l/CkEBCWSSsLssirVTLkVo9Rlsynh357Mw3ijnqsKZruScbqVi/jGyjBm/N5lGh4WfC0S+HjHy53JxEQ4UVh82MduNCKiqWoN+YSF1pJvbkeHJTF5GdtgRZpC82a0jXLaBxRxGK5luHiV72SxgWmGGYSOoRD33OAvaWmNldnUWt08J+Zw5trkKO2C002rMFORwoFb08l3pbOh1yLYqWrqPEJM4mUjWRydFTiZoUw4wZs3h4q5Oh10/xv3rK0PMnvBP87H3PH9H/4gmDowy9/HPuE+fApsQa5xIdoWaKOpaJUWpipk4XazbI/9anT8P8ACteZxe/SS0vAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e7f0894baa29c98cc0adbd2ad242ae7c/8ac56/videocall.webp 240w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/d3be9/videocall.webp 480w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/e46b2/videocall.webp 960w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/f992d/videocall.webp 1440w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/882b9/videocall.webp 1920w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/3f5e1/videocall.webp 2567w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e7f0894baa29c98cc0adbd2ad242ae7c/8ff5a/videocall.png 240w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/e85cb/videocall.png 480w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/d9199/videocall.png 960w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/07a9c/videocall.png 1440w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/29114/videocall.png 1920w,
+/static/e7f0894baa29c98cc0adbd2ad242ae7c/22b88/videocall.png 2567w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e7f0894baa29c98cc0adbd2ad242ae7c/d9199/videocall.png&quot;
+            alt=&quot;videocall.PNG&quot;
+            title=&quot;videocall.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+회의실 책상으로 다가가면 회의를 시작할 수 있다. 영상 통화를 지원한다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8b492841880eee9a538ee1820078483b/61beb/exit.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAC70lEQVQoz32S/0/McRzHP/8CW7ruc+ncEfO9iRtmpJGjcrkQ5ZLq6lIxOq7cuSUqX4qiL0JrhM23bL4sl2/5kp/UZuaHGEJdSr5nQzy8ffJtZl7bc6/X3u/tsef79X5KLa3N1F+5SP0FDxcvXaZB6GrjNdo7OvB2dv7qL7q7eNnTRefz53i9ncqZIq9X6R3irKO9DWlXUwUjjcGofWQGB2hRqdQEBU2g7ytKffj4Wenv+uDJW/5bn/o+Im29VsKIsDHIPn74+cn4+Pii1w7h0rFq7t64wO36k9y9XEfTuVN4jp+gxXOCK4fKuXX+FDfPHKdhfxE3Th8V93W0NNQhFVwtYepiAyN1emTZH7U8GJ0sk50wl7OHKyjelMHOwhjOVcazNdfCAVcKG+YGkbsqAduyGMZrtCQuMuNKj+dg3mqkwsYSgqMmEhigQ6XWoPLToNVoyLdFs9edRo5jGWb7LFzu2UTaIylzpuBaOAPb4tmkLjGSbjGRFhtO4vxp1Ba7kbZfL0U3czSDBqhQq2V8xQ4D1GoKBPBAXiaunOXEZ8+hPH8e0etMVLlt7MqMITMugrR4I80VUWRZ55G8IJTaImc/UB86Gt+BAihrFKBWgPNTzezLTceZbSHOEcbOPCPmrEgqN9ooE8qIjSA1Low7VWbWJhlJNIX8Byh2WJi2UHHoFA6X5xjZWxBO9HqTsobN1igyfjhsrYnGntLv8HCxC2nbT+BfT85dEUG52FeOfSmmNSGs3xBK5GojpfYEHBEGrAKQvCiUansYK5fOwmKcQk2hA2lH4270If0OZY2/AMoiNlqqN1rZ705lW1YcRZuT2L4liT1bUjiSn0GNM5EqZ7KQld2OJKrEz5ets+CpLRHB9pQxfPo4hvgPZWjgKHT6ERgMk3l8r4We9od0tT/iVdt9Xrc9UHp3Wys9Tx/w8ul9Ra+e/Z67haTSm5WMCxc5HDaWUWPGEyigkwxTePu+V0n/1x/68sf8L32v3t43fANdbGOMVZdbYQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/8b492841880eee9a538ee1820078483b/8ac56/exit.webp 240w,
+/static/8b492841880eee9a538ee1820078483b/d3be9/exit.webp 480w,
+/static/8b492841880eee9a538ee1820078483b/e46b2/exit.webp 960w,
+/static/8b492841880eee9a538ee1820078483b/f992d/exit.webp 1440w,
+/static/8b492841880eee9a538ee1820078483b/882b9/exit.webp 1920w,
+/static/8b492841880eee9a538ee1820078483b/f4efa/exit.webp 2563w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/8b492841880eee9a538ee1820078483b/8ff5a/exit.png 240w,
+/static/8b492841880eee9a538ee1820078483b/e85cb/exit.png 480w,
+/static/8b492841880eee9a538ee1820078483b/d9199/exit.png 960w,
+/static/8b492841880eee9a538ee1820078483b/07a9c/exit.png 1440w,
+/static/8b492841880eee9a538ee1820078483b/29114/exit.png 1920w,
+/static/8b492841880eee9a538ee1820078483b/61beb/exit.png 2563w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/8b492841880eee9a538ee1820078483b/d9199/exit.png&quot;
+            alt=&quot;exit.PNG&quot;
+            title=&quot;exit.PNG&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+나가는 문으로 다가가면 접속을 종료할 수 있다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;아직 베타테스트 단계에 혼자 체험해봤지만 새롭고 즐거웠다. 이런 서비스를 발 빠르게 기획한 창업자님이 대단하다. 주말에 팀원들과 활용해봐야겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[블로그 시작]]></title><description><![CDATA[블로그를 시작하며 쓴 글]]></description><link>https://yeoularu.github.io/posts/블로그 시작</link><guid isPermaLink="false">https://yeoularu.github.io/posts/블로그 시작</guid><pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 704px; &quot;
     &gt;

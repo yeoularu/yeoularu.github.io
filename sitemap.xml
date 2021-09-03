@@ -3,9 +3,11 @@
 <url> <loc>https://yeoularu.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/posts/블로그 시작</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeoularu.github.io/posts/ON.town 사용기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yeoularu.github.io/tag/startup</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/category/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yeoularu.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
