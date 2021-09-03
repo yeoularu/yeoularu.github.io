@@ -39,7 +39,7 @@ module.exports = {
       soundcloud: '',
       medium: '',
       github: 'github.com/yeoularu',
-      rss: '',
+      rss: 'https://yeoularu.github.io/rss.xml',
       youtube: 'www.youtube.com/channel/UC4B_O2fT_Y_CTx4N26nenwQ',
     }
   }
