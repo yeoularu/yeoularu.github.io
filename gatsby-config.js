@@ -239,6 +239,18 @@ module.exports = {
       }
     },
     'gatsby-plugin-flow',
-    'gatsby-plugin-optimize-svgs'
+    'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        // ${domain-url} 부분에 자신의 도메인 url을 넣는다
+        host: 'https://yeoularu.github.io',
+        sitemap: 'https://yeoularu.github.io/sitemap.xml',
+        policy: [{
+          userAgent: '*',
+          allow: '/'
+        }]
+      }
+    },
   ]
 };
