@@ -38,9 +38,9 @@ module.exports = {
       codepen: '',
       soundcloud: '',
       medium: '',
-      github: 'github.com/yeoularu',
+      github: 'yeoularu',
       rss: 'https://yeoularu.github.io/rss.xml',
-      youtube: 'www.youtube.com/channel/UC4B_O2fT_Y_CTx4N26nenwQ',
+      youtube: 'UC4B_O2fT_Y_CTx4N26nenwQ',
     }
   }
 };
