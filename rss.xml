@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 11 Sep 2021 15:30:20 GMT</lastBuildDate><item><title><![CDATA[WSL2 설치]]></title><description><![CDATA[포맷한 윈트북에 해야 할 일]]></description><link>https://yeoularu.github.io/posts/WSL2 설치</link><guid isPermaLink="false">https://yeoularu.github.io/posts/WSL2 설치</guid><pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Sep 2021 08:31:39 GMT</lastBuildDate><item><title><![CDATA[readITzine을 읽고]]></title><description><![CDATA[개발자 잡지 독후감]]></description><link>https://yeoularu.github.io/posts/개발자 잡지 독후감</link><guid isPermaLink="false">https://yeoularu.github.io/posts/개발자 잡지 독후감</guid><pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/57a52278efa960a7c406e089df478bd0/6c50f/1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/9oADAMBAAIQAxAAAAHSsrZOgVma/wD/xAAcEAACAQUBAAAAAAAAAAAAAAABAgADESEiMTL/2gAIAQEAAQUCfNQiDjHa8Tz/AP/EABgRAAIDAAAAAAAAAAAAAAAAAAACASIx/9oACAEDAQE/AXaxGH//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhABAQEAAAAAAAAAAAAAAAAAAQAQ/9oACAEBAAY/AsJwv//EABkQAAIDAQAAAAAAAAAAAAAAAAABESFBEP/aAAgBAQABPyFJCh0XdOcJTwZsv//aAAwDAQACAAMAAAAQEO//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EOqehv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAITH/2gAIAQIBAT8QWE9v/8QAHBABAQEBAAIDAAAAAAAAAAAAAREAIUFRYXHB/9oACAEBAAE/EDS9h+YnkE9OJUFDx+NNZezugSD6NMvBN//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/57a52278efa960a7c406e089df478bd0/8ac56/1.webp 240w,
+/static/57a52278efa960a7c406e089df478bd0/d3be9/1.webp 480w,
+/static/57a52278efa960a7c406e089df478bd0/e46b2/1.webp 960w,
+/static/57a52278efa960a7c406e089df478bd0/f992d/1.webp 1440w,
+/static/57a52278efa960a7c406e089df478bd0/b47ac/1.webp 1672w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/57a52278efa960a7c406e089df478bd0/09b79/1.jpg 240w,
+/static/57a52278efa960a7c406e089df478bd0/7cc5e/1.jpg 480w,
+/static/57a52278efa960a7c406e089df478bd0/6a068/1.jpg 960w,
+/static/57a52278efa960a7c406e089df478bd0/644c5/1.jpg 1440w,
+/static/57a52278efa960a7c406e089df478bd0/6c50f/1.jpg 1672w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/57a52278efa960a7c406e089df478bd0/6a068/1.jpg&quot;
+            alt=&quot;readITzine #1&quot;
+            title=&quot;readITzine #1&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;readITzine #1 성장판을 찾아서&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;교보문고에서-책을-시켰더니&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0%EC%97%90%EC%84%9C-%EC%B1%85%EC%9D%84-%EC%8B%9C%EC%BC%B0%EB%8D%94%EB%8B%88&quot; aria-label=&quot;교보문고에서 책을 시켰더니 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;교보문고에서 책을 시켰더니…&lt;/h2&gt;
+&lt;p&gt;“모던 자바스크립트 Deep Dive”, “Clean Code”를 온라인 교보문고에서 구매했다. 추석에 구매했는데 토요일에 왔다. 엄청난 물량속에서 길을 잃어버리지 않고 우리집까지 와준거에 감사했다.&lt;/p&gt;
+&lt;p&gt;결제 전에, 300원 내면 같이 준다는 개발자 잡지를 선택했다.&lt;/p&gt;
+&lt;p&gt;이번이 첫번째 판이라 뭔가 희소성이 있지 않을까 공상하며 오자마자 읽어봤다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4697e170f4ce46334b0025978c3ead25/06b9a/2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAFBd+WU+HU//8QAGxAAAgIDAQAAAAAAAAAAAAAAAgMBEQAEITP/2gAIAQEAAQUCvGbDBJLSkbqG+q55/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAZEAACAwEAAAAAAAAAAAAAAAABAgAQETH/2gAIAQEABj8ChVcEOse01f/EABwQAQEAAQUBAAAAAAAAAAAAAAEAESExQVFxkf/aAAgBAQABPyEWd5yBOQ1kxj2nIZfSwP2//9oADAMBAAIAAwAAABCH/wD/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QCL//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QKr//xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMUFRcZGh/9oACAEBAAE/EBj0crBjYKuTHV2snoQOQQhSzKPwRe7/AAT/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4697e170f4ce46334b0025978c3ead25/8ac56/2.webp 240w,
+/static/4697e170f4ce46334b0025978c3ead25/d3be9/2.webp 480w,
+/static/4697e170f4ce46334b0025978c3ead25/e46b2/2.webp 960w,
+/static/4697e170f4ce46334b0025978c3ead25/f992d/2.webp 1440w,
+/static/4697e170f4ce46334b0025978c3ead25/e6e89/2.webp 1874w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4697e170f4ce46334b0025978c3ead25/09b79/2.jpg 240w,
+/static/4697e170f4ce46334b0025978c3ead25/7cc5e/2.jpg 480w,
+/static/4697e170f4ce46334b0025978c3ead25/6a068/2.jpg 960w,
+/static/4697e170f4ce46334b0025978c3ead25/644c5/2.jpg 1440w,
+/static/4697e170f4ce46334b0025978c3ead25/06b9a/2.jpg 1874w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4697e170f4ce46334b0025978c3ead25/6a068/2.jpg&quot;
+            alt=&quot;readITzine #1 8-9쪽&quot;
+            title=&quot;readITzine #1 8-9쪽&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;손바닥 크기에 행간도 넓어 수월하게 읽혔다. 가끔 검은 페이지에 흰 글씨로 나오는데 우리집이 어두워서 읽기 힘들었다…&lt;/p&gt;
+&lt;h2 id=&quot;내용은&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9A%A9%EC%9D%80&quot; aria-label=&quot;내용은 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내용은&lt;/h2&gt;
+&lt;p&gt;우리나라의 위대한 개발자님 22분이 “개발자의 성장”이라는 주제로 쓴 3~4쪽 정도 짧은 글의 모음집이다.&lt;/p&gt;
+&lt;p&gt;가끔 구글링하면 매번 보이는 개발블로그 주인장 이름들이 보이는 듯 하다.&lt;/p&gt;
+&lt;p&gt;저자 소개는 심플하게 그의 저서가 나열돼있었다.&lt;/p&gt;
+&lt;p&gt;그들이 성장하려는 개발자에게 해주고싶은 조언에 정성까지 채워진 느낌의 글들이었다. 이 잡지의 전신이 readIT이라는 페이스북 IT전문서 커뮤니티여서 아마 그 분위기가 묻어나온게 아닌가 싶다.&lt;/p&gt;
+&lt;p&gt;그들의 경험에서 우러나온 조언들은 서로 중복된 경우가 꽤 많았는데 기억나는 빈도순으론&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;글쓰기&lt;/li&gt;
+&lt;li&gt;공유하기&lt;/li&gt;
+&lt;li&gt;집필하기&lt;/li&gt;
+&lt;li&gt;진짜 공부하기&lt;/li&gt;
+&lt;li&gt;발표하기&lt;/li&gt;
+&lt;li&gt;오픈소스 기여하기&lt;/li&gt;
+&lt;li&gt;책읽기&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;등등이 있겠다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;읽고나서&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%BD%EA%B3%A0%EB%82%98%EC%84%9C&quot; aria-label=&quot;읽고나서 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;읽고나서&lt;/h2&gt;
+&lt;p&gt;블로그를 시작한 뒤에도 뭔가를 쓰고 공유하는데 겁을 먹었다.&lt;/p&gt;
+&lt;p&gt;다른사람이 쓴걸 내가 고대로 배껴쓰는 느낌으로는 글을 적기가 싫었다.&lt;/p&gt;
+&lt;p&gt;이 잡지를 읽으면서, 계속 글쓰고 공유하라는 저자들의 호언에 지금까지 먹었던 겁을 타파하는 깨달음을 얻었다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;내가 공부하고있는 자바스크립트 글들이 “브렌던 아이크”가 작성한 서류는 아니지 않은가? 심지어 나는 표준 ECMAScript 문서도 거의 본 적이 없다. 그걸 친절히 해석해준 글들을 봤지.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;평소에 구글링하며 TIL 글들에서도 지식을 얻어왔다. 저자가 창시자이든 전문가이든 학생이든 나는 괴리감 없이 지식을 흡수했다.&lt;/p&gt;
+&lt;p&gt;결국 같은 내용이라도 나의 언어로 표현한다면 잘 맞는 누군가에게는 도움이 된다는 결론에 이르렀다.&lt;/p&gt;
+&lt;p&gt;이젠 어딘가에서 수집한 지식도 공유할 가치가 있다면 정리해서 공유하겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WSL2 설치]]></title><description><![CDATA[포맷한 윈트북에 해야 할 일]]></description><link>https://yeoularu.github.io/posts/WSL2 설치</link><guid isPermaLink="false">https://yeoularu.github.io/posts/WSL2 설치</guid><pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 539px; &quot;
     &gt;
