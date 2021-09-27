@@ -1,4 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Sep 2021 14:29:27 GMT</lastBuildDate><item><title><![CDATA[readITzine을 읽고]]></title><description><![CDATA[개발자 잡지 독후감]]></description><link>https://yeoularu.github.io/posts/개발자 잡지 독후감</link><guid isPermaLink="false">https://yeoularu.github.io/posts/개발자 잡지 독후감</guid><pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Sep 2021 16:14:25 GMT</lastBuildDate><item><title><![CDATA[CSS 늘어난 img 비율 되돌리기 {object-fit:contain;}]]></title><description><![CDATA[블로그 깎는 노인]]></description><link>https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</link><guid isPermaLink="false">https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</guid><pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8466ce82fd7dd4d189609e7d5017ad2c/33c9c/stretched.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEM0lEQVQ4y5WU62/TZRTH+QNI1Fe+VXxjNBoTMTHIiNOIDGThOhEDZiouMTFEX2iIL0wkGIMhIIiQ6RbG6G7tWG9rt/56X9uN0dKR0bXrbV0v27p2dTcu29p9fFqFdRFjPMk3z3menPP9nd/znPPdgLDV1dV1SKVSJBIJfD4foVCIaDTKhDjz+/2Ew+ESksnkP/KKtuGhU25utxuj0YjVZiMYDOFwOEpncoUCl8uFQZIYHh6mUCisyytybSg6+ZUVVpaXS1gWWItgXVJBJOTz+UexhXyhlFvEw7gS4UQsyqjXzbj/DtOxINl4hGwiSmY8zHQ0QDrsIx3xkxX7mWRUrAEyYyOkIgEmYxGS4VFy6ak1wunEOLE7t/F7vXR399Hd60JnGkBnG0TnvInWOYja4kChMyPXWOhQ22lpN+IfGiIVHSURCZKbTq8RphNxEj4PSkUXe79s5MC3V9n/Qwt7zrax+1I7Oxvk7Putk/d/UXDop3YOn2yh5psmeqU+JsIjjAf9/JHNlFWYShIb6qe5pZW9P7aLxL8IamRKjnZ1U6vTU6vRcVSu5eBVFUca1Rw410mDUiI+4sXvuSGKipVVmIoTdvdxQdbK7stdVF/p5BNVD8cMEkdMBo71mfnMbuJj8bpfSVY+UOhFjIrv1VZx5xHGQwGyk8myCieSjPabOdXaRlWLliq5is/NFmrtZvbaJapdRnb1Gdhj6eXEgIuDPQaqOrV8qjKSjMfF4wSZy82UV5jgjr2Xrzta2a7UsV2rps4hKhmwsmvQzE63hbdvmNjRb+ILt4sP7RZ29PRQrdHjDkfIifxserKsbeIxbkmiqs423urR8aZBTe0NC4c9NnbcNPKe28Q+j4UDHit1XidHB228a+stxcpvD4nWEu01ObFGOCku1Klu49B1GVskDdvMSrb2qalwatnq0vC6U1VChfC3ubqpdOl5x9FDhbmb75xWYl4PybHoGmEiGsLQ0cD26028Kil4Q2pjs6mdTZKMTcZrPCM186yxmRfMMl6zdlBp76LSpmSLVckRu1704y2mRC8/IowFfDRfPs0riss8p23kRW09m3T1PKm9yBPa82xUn2Wj8gxPqc7wtOY8z+vreVnfwEv6K2zulWEcusnsRNkvB2+7kf1+jv3XLrBPfomajgtUt/9MVZs467woruJXPlLVU6dv4ripgxPW65y0azjt0HPKqsXqHmCmnHA8FMTb72C438mw04FXqIxHqI1X9F3A4SI86Gbslhgzn5jdQJB0KMJUMCzmOcbk6Chj/hEyU2WzvPTgAfNzcyzevcvC4iLZmRlys7PMLS7wYGWZJaEmRSwLpVnKF1eBv/dFP1/Is1pYXSO8d+8es0WC+XkWFhbIZDLM5HLcFR/4P1bSw8cJbLkV9e/+/fslFP3HKfw6xf6vgCJROp0uoeg/jP83+xMqNk1ZVcEYGQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/8466ce82fd7dd4d189609e7d5017ad2c/8ac56/stretched.webp 240w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/d3be9/stretched.webp 480w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/e46b2/stretched.webp 960w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/4a689/stretched.webp 1133w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/8466ce82fd7dd4d189609e7d5017ad2c/8ff5a/stretched.png 240w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/e85cb/stretched.png 480w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/d9199/stretched.png 960w,
+/static/8466ce82fd7dd4d189609e7d5017ad2c/33c9c/stretched.png 1133w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/8466ce82fd7dd4d189609e7d5017ad2c/d9199/stretched.png&quot;
+            alt=&quot;stretched img&quot;
+            title=&quot;stretched img&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;늘어난 이미지&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;직전의 글 레이아웃이 고장났다. 손바닥만한 책이 정사각형으로 늘어났다.&lt;/p&gt;
+&lt;p&gt;세로로 긴 사진이 이렇게 늘어나는 듯 하다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yeoularu.github.io/posts/ON.town%20%EC%82%AC%EC%9A%A9%EA%B8%B0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;ON.town 사용기&lt;/a&gt;에 넣었던 브라우저 캡처도 세로로 길었는데 그건 비율이 유지되고 대신 세로 길이가 엄청 크게 나왔다. 아마 해상도가 높아서 직전 글이랑 차이가 난게 아닐까 싶다.&lt;/p&gt;
+&lt;p&gt;여튼 고치려고 구글링을 열심히 했다. 그렇게 max-height 같은거 건들여보다가 결국 찾아냈다.&lt;/p&gt;
+&lt;h2 id=&quot;object-fit-the-king&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#object-fit-the-king&quot; aria-label=&quot;object fit the king permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“object-fit” the KING&lt;/h2&gt;
+&lt;p&gt;개츠비가 이미지를 &amp;#x3C;p&gt; 태그로 어떤 박스 안에 넣어버리는걸로 보였다. 이렇게 정해져버린 박스 크기를 조절하기엔 아직 내 이해도가 부족했다.&lt;/p&gt;
+&lt;p&gt;그래서 정해진 박스 크기 안에서 비율이 꽉 채워지지 않고 원본 비율을 유지하도록 object-fit 값을 contain으로 주었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8919ed3482468ec96991e0e180fdde6/5ab17/solved.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABpUlEQVQoz5WS3UrDQBCF8z4KguAD+ASCiBeCgg8kqHjrhRdqBUUrFEVQSqlgtWppwJ9qbWMSU41N0qRJ2jSb42xavaoYFwZmZ2e+nD0bAbTe3lQorxJU+RX1WhUvL1WwkPEjRFGEYeu77rougiCI9x+6C4EX3wlUuavg4aGCe/EOuipTQ3Jgt9uN80bD6wOLhWssLG1ifiuNxZUdlIo3VGWIEivsAzVtoDBbuMTM9j4W8meYOzxGriTykX8Ag4HCAfCoWMDUSQazpRym86dIi2LcwP55ZdPw+8BUIYfRkxTGzvcwkt3F8lWeaBHCBMBOp4MwDOPcsMM+cCObwXhqGRMHa5jMrGP14iwGJlHIYa1WC7ZtQ1KaEAKSW316hFi+hVKvwWw0YOkfYCzZK3P/JElCrV5HufxEQCr0er34sEdfY4NGPhANyYcp7Pg+fPLSMW0IHMbDJy88z/t18FeFNGtYLbTbThyCoiiQZRmqqsY+cJN936Pwf36HvxS6+ifa5CO/naBpGkzThGVZMAwDuq6j2TQomnAc508g4wKen9EmUYze4wsJZZGkfzmZdAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/c8919ed3482468ec96991e0e180fdde6/8ac56/solved.webp 240w,
+/static/c8919ed3482468ec96991e0e180fdde6/d3be9/solved.webp 480w,
+/static/c8919ed3482468ec96991e0e180fdde6/e46b2/solved.webp 960w,
+/static/c8919ed3482468ec96991e0e180fdde6/f992d/solved.webp 1440w,
+/static/c8919ed3482468ec96991e0e180fdde6/882b9/solved.webp 1920w,
+/static/c8919ed3482468ec96991e0e180fdde6/f3e75/solved.webp 2257w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/c8919ed3482468ec96991e0e180fdde6/8ff5a/solved.png 240w,
+/static/c8919ed3482468ec96991e0e180fdde6/e85cb/solved.png 480w,
+/static/c8919ed3482468ec96991e0e180fdde6/d9199/solved.png 960w,
+/static/c8919ed3482468ec96991e0e180fdde6/07a9c/solved.png 1440w,
+/static/c8919ed3482468ec96991e0e180fdde6/29114/solved.png 1920w,
+/static/c8919ed3482468ec96991e0e180fdde6/5ab17/solved.png 2257w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/c8919ed3482468ec96991e0e180fdde6/d9199/solved.png&quot;
+            alt=&quot;I solved!&quot;
+            title=&quot;I solved!&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이게 잘 먹혀서, 원본 비율을 드디어 볼 수 있었다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 767px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e6eeb9d6978a13a3853841f93edbaed7/6c2f2/edit-css.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABAElEQVQoz32R0XKDIBBF/ZI2GgVFjRFRQG0102km7Uvz1v//ktuF6kymY304wF2GZfduwBoLTiS1BpcGJZ1z2lNlEVMsPGt/xyi28lc/EjD/ePAiJUY74Tpf0czvEI2GNb3/KDp3OC7J9wjcIvQFaTv6QGYmvN6/oW53mOkNXx+fqPoZtR5QmxFZ+/u562yLgKseub3geGoRFhWs1Ri6EartoeoOjbRQFJ9riUkqZJXCU3bCQVSbUMIBefeCqJBUoUJpWkSxgGA5Yp4j5AVSgjEH6bT0CZ//wXvoPBLUakaVxuRVQlXHblBLG+t51UzanZaXKXPy0HvjJvhAsqH3+AE4l9rJHHVNygAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/e6eeb9d6978a13a3853841f93edbaed7/8ac56/edit-css.webp 240w,
+/static/e6eeb9d6978a13a3853841f93edbaed7/d3be9/edit-css.webp 480w,
+/static/e6eeb9d6978a13a3853841f93edbaed7/e0ad8/edit-css.webp 767w&quot;
+              sizes=&quot;(max-width: 767px) 100vw, 767px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/e6eeb9d6978a13a3853841f93edbaed7/8ff5a/edit-css.png 240w,
+/static/e6eeb9d6978a13a3853841f93edbaed7/e85cb/edit-css.png 480w,
+/static/e6eeb9d6978a13a3853841f93edbaed7/6c2f2/edit-css.png 767w&quot;
+            sizes=&quot;(max-width: 767px) 100vw, 767px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/e6eeb9d6978a13a3853841f93edbaed7/6c2f2/edit-css.png&quot;
+            alt=&quot;edit css code&quot;
+            title=&quot;edit css code&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그대로 SCSS 코드를 수정해주고 yarn develop했더니 잘 적용되었다.&lt;/p&gt;
+&lt;h3 id=&quot;호환성이&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%B4&quot; aria-label=&quot;호환성이 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;호환성이&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8f127b3af941084461406e58b687ffcf/01294/compatibility.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB10lEQVQ4y5VTi47aMBDM///aCVVpSeEgJHDkbeflOA+SwHTXFATcXaVaGu3au54d22ur73v4vo8wDJEkifE9z8M0TeBxuVzwP8PiDbx5nmdjGeM4PhHd/JFiadkYiEobJKWCqDWtKZxOJ1hMoLVG27bGCiFQ17VBlmVGOftVVZlYUZYoy8qsBUEAmecmVhQF+LSGsGkaQ6aUQpqmyCmJN7PluZTS+HwlPOdCbG8xJovjGF3XfSbkBJ6zr0l1FEWkqCRfG8ukEW0WIkPyl5RVB3SSu0ImYzBRwsmpQBolKGSOiAhYrcwE4jCiWGasJJvGKZIwNrHj4Xgl5AfgO2CoWmG732F9cLF0V9gGPnzHgbfb4P3owX5fwg33cHZrk7OhtfV+a+xiZaPWighPI6SQqOmInW7hyQC2dLEIV/hdHpAt3uBufuJH4cMhLHMfv6QHp9zDzigvWmNVf8AWLqqhgTXMI/TQYSC5F3zTc9RSY11RzoCJBPyzD/txgGob9PRC5/PZ9NwjeJynEX1VoqOiwzB8ynmENakGXU49RImv405IhXTbQTfXTmA8/qQnwnm+vnLDxKSSwU3OP+dOesM3BZ+ObKpTuxTUuEzER+Ln5/WvFLxexyvpHxzo5vOCelhuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/8f127b3af941084461406e58b687ffcf/8ac56/compatibility.webp 240w,
+/static/8f127b3af941084461406e58b687ffcf/d3be9/compatibility.webp 480w,
+/static/8f127b3af941084461406e58b687ffcf/e46b2/compatibility.webp 960w,
+/static/8f127b3af941084461406e58b687ffcf/f992d/compatibility.webp 1440w,
+/static/8f127b3af941084461406e58b687ffcf/18043/compatibility.webp 1615w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/8f127b3af941084461406e58b687ffcf/8ff5a/compatibility.png 240w,
+/static/8f127b3af941084461406e58b687ffcf/e85cb/compatibility.png 480w,
+/static/8f127b3af941084461406e58b687ffcf/d9199/compatibility.png 960w,
+/static/8f127b3af941084461406e58b687ffcf/07a9c/compatibility.png 1440w,
+/static/8f127b3af941084461406e58b687ffcf/01294/compatibility.png 1615w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/8f127b3af941084461406e58b687ffcf/d9199/compatibility.png&quot;
+            alt=&quot;object-fit compatibility&quot;
+            title=&quot;object-fit compatibility&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+IE는 이 object-fit을 못읽는다는게 한가지 아쉬운 점이다. IE사용자분들은 다음 결과를 봐도 옆으로 늘어진 개발자 잡지 사진을 보게 되겠다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://yeoularu.github.io/posts/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9E%A1%EC%A7%80%20%EB%8F%85%ED%9B%84%EA%B0%90&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;결과&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[readITzine을 읽고]]></title><description><![CDATA[개발자 잡지 독후감]]></description><link>https://yeoularu.github.io/posts/개발자 잡지 독후감</link><guid isPermaLink="false">https://yeoularu.github.io/posts/개발자 잡지 독후감</guid><pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
