@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Sep 2021 16:14:25 GMT</lastBuildDate><item><title><![CDATA[CSS 늘어난 img 비율 되돌리기 {object-fit:contain;}]]></title><description><![CDATA[블로그 깎는 노인]]></description><link>https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</link><guid isPermaLink="false">https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</guid><pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Oct 2021 02:12:39 GMT</lastBuildDate><item><title><![CDATA[foo(), bar() 의미]]></title><description><![CDATA[공부하다 갑자기 궁금해짐]]></description><link>https://yeoularu.github.io/posts/Meaning of foobar</link><guid isPermaLink="false">https://yeoularu.github.io/posts/Meaning of foobar</guid><pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/42b4c697129d0f23bcfcb6d63dc7421c/07a9c/title.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQ4y62UzY6CMBSFeYZRQAoUdVCjhhawYljwBPMMRnduef/Nmd4mOEBQu5jFl0PpvYfTn+CcTif8J87Uy7IsPza+qnFeFZIWRfHUjjzPBzXWCZVSqOsaVVXhcrkYaNw0jV3CfgEloebH44H7/Y7r9Yrb7Wa0bVvzEaqZ6p1cstJ6VprqbJKRAWGzl4OE3WSWS+yOEtlBQAoJKTtySL2HpK/20hknk3opIlnjRyVY1hzzkMHzA3iLP1x/ARbFnw1Jc224ihMcviMEKcOX52Huajz/yUyPAxbaGZbacMGXYHuJze4IvkzgM2aMKBlBz0EY2RkWRYk45mDrLfhmj3SbIuLcpOoMZy4ZhraGBWKewNVLnbmuMeqn6xIy24SEEAKZRugTFkaHmDl96m8NxxPK8mfw9h7276MtY9NftyXR8YAYBv0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/42b4c697129d0f23bcfcb6d63dc7421c/8ac56/title.webp 240w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/d3be9/title.webp 480w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/e46b2/title.webp 960w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/f992d/title.webp 1440w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/42b4c697129d0f23bcfcb6d63dc7421c/8ff5a/title.png 240w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/e85cb/title.png 480w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/d9199/title.png 960w,
+/static/42b4c697129d0f23bcfcb6d63dc7421c/07a9c/title.png 1440w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/42b4c697129d0f23bcfcb6d63dc7421c/d9199/title.png&quot;
+            alt=&quot;Meaning of foobar&quot;
+            title=&quot;Meaning of foobar&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;foo()?&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;뜬금없이-궁금해진-foo-bar의-의미&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%9C%AC%EA%B8%88%EC%97%86%EC%9D%B4-%EA%B6%81%EA%B8%88%ED%95%B4%EC%A7%84-foo-bar%EC%9D%98-%EC%9D%98%EB%AF%B8&quot; aria-label=&quot;뜬금없이 궁금해진 foo bar의 의미 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;뜬금없이 궁금해진 foo(), bar()의 의미&lt;/h2&gt;
+&lt;p&gt;가끔 구글링하거나 공부하다 보면 마주치는 foobar.&lt;/p&gt;
+&lt;p&gt;어제 나는 자바스크립트 책으로 공부하다가 개념 설명해주는 코드에&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;function foo() {
+    var bar = 3
+};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이런 식으로 쓰여 있어 갑자기 궁금해졌다. foo(), bar가 대체 뭐지? &lt;del&gt;개발자 밈?&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;wiki 백과에 물어보았다.&lt;/p&gt;
+&lt;h2 id=&quot;foo-bar-의-의미&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#foo-bar-%EC%9D%98-%EC%9D%98%EB%AF%B8&quot; aria-label=&quot;foo bar 의 의미 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;foo(), bar() 의 의미&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;메타 문법 변수 (metasyntactic variable)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;수학에서 미지수 x, y가 있듯이&lt;/p&gt;
+&lt;p&gt;프로그래밍할 때
+아무 의미 없는 변수, 함수 이름으로 쓰인다.&lt;/p&gt;
+&lt;p&gt;대표적으로 코딩 교육에서
+언어의 문법이나 알고리즘 스케치 등
+주로 개념적인 부분을 묘사하는 상황에서 사용된다.&lt;/p&gt;
+&lt;p&gt;foobar, foo, bar, baz, qux, quux, quuz 등등&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;출처: 위키백과
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Metasyntactic_variable&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://en.wikipedia.org/wiki/Metasyntactic_variable&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CSS 늘어난 img 비율 되돌리기 {object-fit:contain;}]]></title><description><![CDATA[블로그 깎는 노인]]></description><link>https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</link><guid isPermaLink="false">https://yeoularu.github.io/posts/CSS object-fit으로 틀 만들기</guid><pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
