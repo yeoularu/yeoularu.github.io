@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Oct 2021 02:27:05 GMT</lastBuildDate><item><title><![CDATA[foo(), bar() 의미]]></title><description><![CDATA[공부하다 갑자기 궁금해짐]]></description><link>https://yeoularu.github.io/posts/Meaning of foobar</link><guid isPermaLink="false">https://yeoularu.github.io/posts/Meaning of foobar</guid><pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[yeoulog]]></title><description><![CDATA[Blog by yeoularu]]></description><link>https://yeoularu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Nov 2021 18:36:49 GMT</lastBuildDate><item><title><![CDATA[Popogo 프로젝트 잠시대기]]></title><description><![CDATA[첫 개인프로젝트]]></description><link>https://yeoularu.github.io/posts/project stop</link><guid isPermaLink="false">https://yeoularu.github.io/posts/project stop</guid><pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/154d737b6ea009f9d6a4603f5a03fa4a/13ed0/popogo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.416666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAaElEQVQoz63QUQrAIAiAYa9iZj0I3f92DhuCxUaN9fA9LNyfBK2JiojWWpWIupyzMvPAzmY+75hJATFpSrcYtAtKKZ0F449vQQPxYw6v+HwEu4NPlht67MuGy+Bf54O777Xr/IaIqCddBtMY9XDtiVwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/154d737b6ea009f9d6a4603f5a03fa4a/8ac56/popogo.webp 240w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/d3be9/popogo.webp 480w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/e46b2/popogo.webp 960w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/f992d/popogo.webp 1440w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/882b9/popogo.webp 1920w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/22065/popogo.webp 3839w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/154d737b6ea009f9d6a4603f5a03fa4a/8ff5a/popogo.png 240w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/e85cb/popogo.png 480w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/d9199/popogo.png 960w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/07a9c/popogo.png 1440w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/29114/popogo.png 1920w,
+/static/154d737b6ea009f9d6a4603f5a03fa4a/13ed0/popogo.png 3839w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/154d737b6ea009f9d6a4603f5a03fa4a/d9199/popogo.png&quot;
+            alt=&quot;Popogo website&quot;
+            title=&quot;Popogo website&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Popogo v0.1.0&lt;/em&gt;
+&lt;a href=&quot;https://yeoularu.github.io/popogo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;첫-개인프로젝트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B2%AB-%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&quot; aria-label=&quot;첫 개인프로젝트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;첫 개인프로젝트&lt;/h2&gt;
+&lt;p&gt;Popogo는 내가 기획 디자인 개발한 첫 프로젝트이다.&lt;/p&gt;
+&lt;p&gt;어느 날 친구가 네이버 파파고에 영어 논문 내용을 통째로 넣어서 읽으면서 불편하다는 얘기를 듣고 기획을 시작했다.&lt;/p&gt;
+&lt;p&gt;파파고는 영어 원문을 주로 읽는 사람에겐 주로 화면의 반절만 사용하는 좋지 못한 레이아웃을 가지고 있다.&lt;/p&gt;
+&lt;p&gt;또 모바일 웹/앱에서만 다크모드를 지원해서 PC 사용자는 밝은 화면이 강제된다.&lt;/p&gt;
+&lt;p&gt;이러한 단점을 해결하는 웹앱 프로젝트를 기획했다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;기획-디자인&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8&quot; aria-label=&quot;기획 디자인 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기획, 디자인&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bbebffea1169a93f9bcdfd2d72e8b493/93ba6/design.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABuUlEQVQoz5VSy27iQBD0x0DuZPcLwISNtGGVU3LKPdqP2L9B5M4BiTPJYXOKxGkREPADG/zAb+zg2unGWEk4JBmp1e2pmZrqaks/f//B+cUvnDWbkEU0Go03Ua/XIcsyWq3WEbbHG2ieyTi/ucWPi0tImzjDNk2xXC4xnU4xm83KrCgKNE2DaZqYz+e8/zrozGQy4ewlKeJkC2mbxKDlui4T6LoOVVWZJIoiJEnCuGEYvE8PaJS5VnmPMOQ7Pid5nseX1us1qyDSg7IwDBHHMXzf44uKojKmajo0w4SmL/kOdUdrt9tB8n2fPyzLEuo0Jk+FBaTOF48RYRxHCAIfURiwPc5iAvvfEwL9GYbo6ECY5zmkKNq3TApZegHk4jVRoFyv6sR3kQUu8JJitTLZppKQFJBUIiSAlIUUol3LWsMWyi2BcW0Xte3AFp47jsNevlMYlUMZj8d4uL/HcDjE4+NfLBaLD4M8JDElYZZlrJCIB4MBvn87Ra1Ww/X1FQ+GhqGqSpGPg0jJ/5LwUFDr/X4flUoF1ZMq2u12Mdn91D9DyL9NXpi92WwwGo3Q6XTQveui1+t9mZDyf/SsB9FVs8ipAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/bbebffea1169a93f9bcdfd2d72e8b493/8ac56/design.webp 240w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/d3be9/design.webp 480w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/e46b2/design.webp 960w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/f992d/design.webp 1440w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/882b9/design.webp 1920w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/3241c/design.webp 2874w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/bbebffea1169a93f9bcdfd2d72e8b493/8ff5a/design.png 240w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/e85cb/design.png 480w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/d9199/design.png 960w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/07a9c/design.png 1440w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/29114/design.png 1920w,
+/static/bbebffea1169a93f9bcdfd2d72e8b493/93ba6/design.png 2874w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/bbebffea1169a93f9bcdfd2d72e8b493/d9199/design.png&quot;
+            alt=&quot;design&quot;
+            title=&quot;design&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Notion에 파파고 기능을 세분화한 후 그중 구현할 기능을 정리했다.&lt;/p&gt;
+&lt;p&gt;Figma에서 로고와 UI를 디자인했다.&lt;/p&gt;
+&lt;p&gt;파파고를 클론한 디자인이어서 창작의 고통이 없었고 디자인의 D도 모르는 상태에서 그나마 깔끔한 레이아웃을 잡을 수 있었다.&lt;/p&gt;
+&lt;h2 id=&quot;개발&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C&quot; aria-label=&quot;개발 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발&lt;/h2&gt;
+&lt;p&gt;정말 더디게, 더럽게 개발했다.&lt;/p&gt;
+&lt;p&gt;프레임워크 없이 바닐라 JS로 개발하는 게 초보인 내 수준 레벨업에 도움이 되리라 마음먹고 시작했다.&lt;/p&gt;
+&lt;p&gt;그 후론 구글링의 연속이었다. JS도, 통신도 제대로 지식이 정립되지 않은 상태에서 무작정 구현하는 게 얼마나 힘든지 또다시 깨달았다.&lt;/p&gt;
+&lt;p&gt;스택오버플로우에서 답변 코드를 참고해 넣어보고, 되면 “왜 되지?” 하면서 생각하고, 이런 과정들이 하나하나 굉장히 오래 걸렸다.&lt;/p&gt;
+&lt;p&gt;코드들도 체계 없이 쓰다 보니 간단한 코드임에도 파악하기 어려워졌다.&lt;/p&gt;
+&lt;p&gt;헛공부했다는 자괴감 속에서, 기획했던 기능 중 몇 가지를 포기하고 급하게 개발을 마무리했다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;회고&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9A%8C%EA%B3%A0&quot; aria-label=&quot;회고 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;회고&lt;/h2&gt;
+&lt;p&gt;이 프로젝트를 진행한 이유는 기획했을 때 “적당히 어려운” 과제라고 생각되어서였다.&lt;/p&gt;
+&lt;p&gt;이런류의 서비스는 매우 많다. “드래그한 문자 번역” 기능은 크롬 확장프로그램으로도 많고 웨일 브라우저는 깔면 기본 탑재 기능이다.&lt;/p&gt;
+&lt;p&gt;처음부터 참신한 서비스를 내놓겠다! 라기보단 고객 니즈를 해결하는 과정을 밟아보는 게 목적이었기 때문에, 많은 프로젝트 아이디어 중 해결할 방법과 내 능력이 가장 맞아 보이는 이 과제를 선택했다.&lt;/p&gt;
+&lt;p&gt;하지만 기대한 성장은 저조하고 대신 “내게 깊은 지식이 없다. 필요하다”라는 결론을 얻었다.&lt;/p&gt;
+&lt;p&gt;자바스크립트 기본서와 클린코드 책을 읽고 이 프로젝트를 리팩토링할 계획이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[foo(), bar() 의미]]></title><description><![CDATA[공부하다 갑자기 궁금해짐]]></description><link>https://yeoularu.github.io/posts/Meaning of foobar</link><guid isPermaLink="false">https://yeoularu.github.io/posts/Meaning of foobar</guid><pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
